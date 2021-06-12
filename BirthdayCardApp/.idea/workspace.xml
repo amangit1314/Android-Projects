@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e246c283-6aaf-46bf-89e8-9fb2ca22629c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DragonBang2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/.idea/dictionaries/AmanSoni.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/androidTest/java/com/aman/firechatapp/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/java/com/aman/firechatapp/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/drawable/circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/drawable/ic_send_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/drawable/my_messages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/drawable/their_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/layout/my_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/layout/their_message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/app/src/test/java/com/aman/firechatapp/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FirechatApp/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Food Runner App" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Meme Share" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewsFresh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Realworld_io" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Realworld_io2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/androidTest/java/com/aman/todolist/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/java/com/aman/todolist/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/app/src/test/java/com/aman/todolist/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Todo List/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/androidTest/java/com/aman/todolist/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/java/com/aman/todolist/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/app/src/test/java/com/aman/todolist/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TodoList/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../forecast-mvvm-android-kotlin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/.github/ISSUE_TEMPLATE/bug_report.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/.github/ISSUE_TEMPLATE/chore.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/.github/ISSUE_TEMPLATE/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/.github/PULL_REQUEST_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/.github/release-drafter.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/src/commonMain/kotlin/org/fossasia/badgemagic/data/BadgeConfig.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/src/commonMain/kotlin/org/fossasia/badgemagic/data/ConfigInfo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/src/commonMain/kotlin/org/fossasia/badgemagic/data/DataToSend.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/src/commonMain/kotlin/org/fossasia/badgemagic/data/Message.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/src/commonMain/kotlin/org/fossasia/badgemagic/data/Mode.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/src/commonMain/kotlin/org/fossasia/badgemagic/data/Speed.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/src/commonMain/kotlin/org/fossasia/badgemagic/device/DataToByteArrayConverter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/src/commonMain/kotlin/org/fossasia/badgemagic/helpers/JSONHelper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/BadgeMagicModule/src/commonMain/kotlin/org/fossasia/badgemagic/utils/ByteArrayUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../FirechatApp/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/ic_launcher-web.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/BadgeMagicApp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/adapter/DrawableAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/adapter/DrawableItemHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/adapter/ModeAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/adapter/ModeItemHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/adapter/SaveAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/adapter/SavedClipartsAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/adapter/SavedClipartsViewHolder.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/bindings/EditBadgeViewBindings.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/bindings/SavedClipartsViewBindings.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/bindings/SettingsViewBindings.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/core/android/ext/ViewExt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/core/android/log/TimberKt.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/core/bluetooth/GattClient.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/core/bluetooth/ScanHelper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/data/DrawableInfo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/data/Language.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/data/ModeInfo.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/data/SavedClipart.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/data/badge/Badges.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/data/badge/DeviceID.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/data/badge_preview/Cell.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/data/badge_preview/CheckList.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/data/draw_layout/DrawMode.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/database/ClipArtService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/database/StorageFilesService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/di/Modules.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/extensions/ActivityExtensions.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/text/CenteredImageSpan.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/DrawerActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/EditBadgeActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/EditClipartActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/base/BaseActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/base/BaseFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/custom/DrawBadgeLayout.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/custom/PreviewBadge.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/custom/SquareImageView.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/custom/knob/Croller.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/custom/knob/OnCrollerChangeListener.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/custom/knob/utilities/Utils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/fragments/AboutFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/fragments/DrawFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/fragments/SavedBadgesFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/fragments/SavedClipartFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/fragments/SettingsFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/ui/fragments/TextArtFragment.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/util/BadgeUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/util/BluetoothAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/util/Converters.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/util/ImageUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/util/LocaleManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/util/PreferenceUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/util/Resource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/util/SendingUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/util/StorageUtils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/viewmodels/DrawViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/viewmodels/DrawerViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/viewmodels/EditBadgeViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/viewmodels/EditClipartViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/viewmodels/FilesViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/viewmodels/SavedClipartViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/viewmodels/SettingsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/java/org/fossasia/badgemagic/viewmodels/TextArtViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_anim_animation.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_anim_down.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_anim_fixed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_anim_laser.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_anim_left.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_anim_picture.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_anim_right.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_anim_up.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_effect_flash.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_effect_invert.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable-anydpi/ic_effect_marquee.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/about_icon_github.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_apple.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_clock.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_dustbin.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_face.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_heart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_invader.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_mail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_mix1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_mix2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_mushroom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_mustache.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_oneup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_pause.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_spider.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_sun.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/clip_thumbs_up.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_about_libraries.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_about_license.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_caution.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_chip_flash.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_chip_inverted.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_chip_marquee.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_chip_speed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_clipart_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_clipart_switcher_disabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_clipart_switcher_enabled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_delete_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_draw_delete.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_draw_erase.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_draw_pencil.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_draw_reset.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_draw_save.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_emoji.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_empty_list.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_folder_open_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_header_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_import_export_black_24dp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_led.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_led_lit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_menu_about.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_menu_bug.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_menu_buy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_menu_create.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_menu_draw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_menu_save.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_menu_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_play_pause.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_share.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/ic_star.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/drawable/round_corner_bg.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/font/open_sans_semibold.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout-land/fragment_main_save.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout-land/fragment_main_textart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout-land/recycler_save_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/activity_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/activity_edit_badge.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/activity_edit_clipart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/app_bar_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/content_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/dialog_save.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/effects_layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/fragment_about_us.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/fragment_draw.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/fragment_main_save.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/fragment_main_textart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/fragment_saved_cliparts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/fragment_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/nav_header_drawer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/recycler_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/recycler_item_add.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/recycler_item_mode.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/recycler_item_saved_clipart.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/recycler_save_item.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/layout/sections_tab.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/menu/drawer_items.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/menu/open_folder.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/menu/save_menu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FirechatApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values-land/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values-zh-rCN/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values/croller_attrs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values/dimens.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values/integers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/xml-v25/shortcuts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/main/res/xml/file_provider_paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/android/src/test/resources/mockito-extensions/org.mockito.plugins.MockMaker" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/commitStyle.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/app_icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/fdroid_badge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/google_play_badge.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-1-hard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-2-hard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-3-hard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-4-hard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-5-hard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-6-hard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/images/screen-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/sources/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/sources/conf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/sources/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/docs/sources/make.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/Appfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/Fastfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/changelogs/1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/changelogs/10.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/changelogs/2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/changelogs/3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/changelogs/4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/changelogs/7.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/changelogs/8.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/changelogs/9.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/full_description.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/phoneScreenshots/screen-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/phoneScreenshots/screen-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/phoneScreenshots/screen-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/phoneScreenshots/screen-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/phoneScreenshots/screen-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/phoneScreenshots/screen-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/sevenInchScreenshots/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/tenInchScreenshots/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/tvScreenshots/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/images/wearScreenshots/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/short_description.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/title.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/fastlane/metadata/android/en-US/video.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../FirechatApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../FirechatApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/../FirechatApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../FirechatApp/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/.swiftlint.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic.xcodeproj/xcshareddata/xcschemes/badgemagic.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/172.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/216.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Assets.xcassets/primaryred.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Common/Application/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Common/Blutooth/BLE.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Common/Constants/Constants.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Supporting Files/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Supporting Files/SceneDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Utils/BorderedViewModifier.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Utils/KeyboardFollower.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Views/Components/Home/HomeView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Views/Components/Settings/SettingsForm.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/iOS/badgemagic/Views/Extensions/Color.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/preview.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/scripts/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/scripts/check-screenshots.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/scripts/prep-key.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/scripts/secrets.tar.enc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/scripts/upload-apk.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/scripts/upload-gh-pages.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/scripts/upload-ios-framework.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../badge-magic-android-development/versions.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l13HSf1pevaq29Q5nFZl5oA4eD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/values" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-875417611">
+      <recent name="com.aman.birthdaycardapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\AmanSoni\Desktop\Flutter_Projects\BirthdayCardApp\app\src\main\res\drawable" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Birthday_Card_App.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e246c283-6aaf-46bf-89e8-9fb2ca22629c" name="Default Changelist" comment="" />
+      <created>1606750681937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606750681937</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623156905906">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1623156905906" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1623157316745">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1623157316745" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+com/aman/birthdaycardapp/BuildConfig.java
+ com.aman.birthdaycardapp.BuildConfig
